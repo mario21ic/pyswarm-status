@@ -1,0 +1,5 @@
+- List workers desired and managers
+- List containers per node
+- List services desired and replicas
+- List node with status down and unknown
+- Migrate to new cluster
